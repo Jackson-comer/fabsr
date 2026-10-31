@@ -1,0 +1,56 @@
+{
+ "bop_kernel_fac.py": {
+  "source": "bench/bop_kernel_fac.py",
+  "source_sha256": "d6dd7751ff8ac59225417d6f63e15d69cbf69dd653b4d504248cfdd79aaec851",
+  "rewritten_import_lines": 0,
+  "scrubbed_path_defaults": 0
+ },
+ "bop_kernel.py": {
+  "source": "bench/bop_kernel.py",
+  "source_sha256": "1be12c19e588686b3e5d5da1beb7e275f849b6c6db00c22f5b13e9902bf1fe7a",
+  "rewritten_import_lines": 0,
+  "scrubbed_path_defaults": 0
+ },
+ "tune.py": {
+  "source": "bench/tune.py",
+  "source_sha256": "42978cda0b029b8b4fcef9e2bbd8a0fd8f87e211c34931874404bf988c9231d9",
+  "rewritten_import_lines": 4,
+  "scrubbed_path_defaults": 0
+ },
+ "twin.py": {
+  "source": "bench/twin.py",
+  "source_sha256": "198fdb3b1c499fb13fd44938168dfa99705c6725d4b0381efba3284cd225c13c",
+  "rewritten_import_lines": 0,
+  "scrubbed_path_defaults": 0
+ },
+ "int8lin.py": {
+  "source": "bench/int8lin.py",
+  "source_sha256": "b4109ad22c0217d91604ce34d5d117360bacf024e0897925cce0f7372264f718",
+  "rewritten_import_lines": 0,
+  "scrubbed_path_defaults": 0
+ },
+ "packed_ternary.py": {
+  "source": "absorb/packed_ternary.py",
+  "source_sha256": "7a45e9163aaac012d78f50a7a48973c662b4d52b93dd9f11fa34dabee0c326bd",
+  "rewritten_import_lines": 4,
+  "scrubbed_path_defaults": 0
+ },
+ "lowmem_models.py": {
+  "source": "absorb/lowmem_models.py",
+  "source_sha256": "ffa6d7401629a49c7634060c5906dbd748132e9770e1a5ffef995fbdc4604d8b",
+  "rewritten_import_lines": 2,
+  "scrubbed_path_defaults": 1
+ },
+ "absorb_probe.py": {
+  "source": "absorb/absorb_probe.py",
+  "source_sha256": "a7e4155f1fcffad6c51b56cacf437c7e8b7a4adfe90827a204d13cdf9dd9cc95",
+  "rewritten_import_lines": 2,
+  "scrubbed_path_defaults": 1
+ },
+ "speedups.py": {
+  "source": "absorb/speedups.py",
+  "source_sha256": "80558d5dbef3c09866d0caffa7ebe7a43733baa9165cdc33565b4e4d5460356a",
+  "rewritten_import_lines": 1,
+  "scrubbed_path_defaults": 0
+ }
+}

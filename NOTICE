@@ -1,0 +1,8 @@
+fabsr
+Copyright 2026 Jackson-comer
+
+fabsr is a weight-flip optimizer for training ternary language models from 2-bit packed weights.
+This product was created by the author named above; if you redistribute it or a work derived from it, keep this notice.
+
+The Falcon-E models that fabsr can load are developed by the Technology Innovation Institute and are distributed under their own license
+(see https://falconllm.tii.ae/falcon-terms-and-conditions.html). They are not part of this package.
